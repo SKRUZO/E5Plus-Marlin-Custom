@@ -5,7 +5,7 @@ Real quick list of my printer specs so it's not confusing, I'll expand this late
 - BTT SKR Mini E3V3 board
 - MicroSwiss Direct Drive Extruder
 - 0.4mm Micro Swiss Nozzle
-- Creality CLTouch
+- Creality CRTouch
 - Filament Runout Sensor
 
 ## TODO:
